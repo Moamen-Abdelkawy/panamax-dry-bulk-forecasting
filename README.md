@@ -208,8 +208,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-**Moamen Abdelkawy**
-**Manuel Quinto Sabelli**
+- **Moamen Abdelkawy**
+- **Manuel Quinto Sabelli**
 
 ## Academic Context
 
